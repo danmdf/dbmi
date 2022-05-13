@@ -1,4 +1,4 @@
-# Dynamic Bayesian mutual information (dbmi) estimation for feature selection
+# Dynamic Bayesian mutual information (dbmi) estimation for feature selection (version 0.1)
 
 DynamicBayesianMutualInformation estimates the posterior mean
 mutual information between two binary variables under a Dirichlet 
